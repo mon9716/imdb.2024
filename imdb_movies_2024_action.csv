@@ -1,0 +1,863 @@
+Title,Rating,Votes,Duration,Genres
+1. Gladiator II,6.5,256000,148.0,action
+2. William Tell,5.7,3400,134.0,action
+3. Dune: Part Two,8.5,646000,166.0,action
+4. Twisters,6.5,177000,122.0,action
+5. Kraven the Hunter,5.5,64000,127.0,action
+6. Deadpool & Wolverine,7.5,510000,128.0,action
+7. 40 Acres,7.1,623,113.0,action
+8. The Ministry of Ungentlemanly Warfare,6.8,140000,122.0,action
+9. Furiosa: A Mad Max Saga,7.5,293000,148.0,action
+10. The Beekeeper,6.3,163000,105.0,action
+11. Sonic the Hedgehog 3,6.9,66000,110.0,action
+12. Carry-On,6.5,173000,119.0,action
+13. Civil War,7.0,245000,109.0,action
+14. The Fall Guy,6.8,228000,126.0,action
+15. Fight or Flight,6.4,15000,102.0,action
+16. Venom: The Last Dance,6.0,132000,110.0,action
+17. The Count of Monte-Cristo,7.6,38000,178.0,action
+18. Road House,6.2,171000,121.0,action
+19. Argylle,5.6,94000,139.0,action
+20. Godzilla x Kong: The New Empire,6.0,125000,115.0,action
+21. Land of Bad,6.6,53000,113.0,action
+22. Relay,7.4,140,112.0,action
+23. Transformers One,7.6,55000,104.0,action
+24. Rebel Ridge,6.8,92000,131.0,action
+25. Borderlands,4.7,51000,101.0,action
+26. Freaky Tales,6.2,7600,107.0,action
+27. The Instigators,6.2,39000,101.0,action
+28. Stand Your Ground,4.6,381,99.0,action
+29. Kingdom of the Planet of the Apes,6.8,155000,145.0,action
+30. Bad Boys: Ride or Die,6.5,103000,115.0,action
+31. Madame Web,4.1,104000,116.0,action
+32. Homestead,5.2,4300,112.0,action
+33. Damsel,6.1,112000,110.0,action
+34. The Unholy Trinity,6.0,574,95.0,action
+35. Dirty Angels,4.4,4200,104.0,action
+36. The Killer,5.7,14000,126.0,action
+37. The Union,5.4,54000,107.0,action
+38. Maharaja,8.4,71000,141.0,action
+39. The Crow,4.7,37000,111.0,action
+40. Red One,6.3,143000,123.0,action
+41. Monkey Man,6.8,94000,121.0,action
+42. Role Play,5.5,19000,100.0,action
+43. Kung Fu Panda 4,6.3,71000,94.0,action
+44. Drive-Away Dolls,5.4,24000,84.0,action
+45. Canary Black,5.4,12000,101.0,action
+46. The Lord of the Rings: The War of the Rohirrim,6.3,33000,134.0,action
+47. Absolution,5.2,9100,112.0,action
+48. The Killer's Game,5.8,18000,104.0,action
+49. Elevation,5.6,24000,91.0,action
+50. Jackpot!,5.8,31000,106.0,action
+51. Beverly Hills Cop: Axel F,6.4,83000,118.0,action
+52. Kalki 2898 AD,7.0,69000,180.0,action
+53. Old Guy,5.2,3300,94.0,action
+54. Arcadian,5.5,25000,92.0,action
+55. Attack on Titan the Movie: The Last Attack,9.1,18000,145.0,action
+56. Thelma,7.0,24000,98.0,action
+57. Lift,5.5,50000,107.0,action
+58. Uglies,4.7,34000,100.0,action
+59. Pushpa: The Rule - Part 2,6.1,59000,201.0,action
+60. Solo Leveling: ReAwakening,8.8,14000,121.0,action
+61. Blitz,6.2,17000,120.0,action
+62. The Silent Hour,6.1,8500,99.0,action
+63. Under Paris,5.2,37000,104.0,action
+64. Atlas,5.6,57000,118.0,action
+65. Apocalypse Z: The Beginning of the End,6.1,21000,117.0,action
+66. Azrael,5.4,12000,86.0,action
+67. Night Call,6.7,2500,97.0,action
+68. Survive,4.6,3200,90.0,action
+69. Dan Da Dan: First Encounter,8.2,3000,83.0,action
+70. Brothers,5.4,14000,89.0,action
+71. Rebel Moon - Part Two: The Scargiver,5.3,60000,122.0,action
+72. Hellboy: The Crooked Man,4.5,15000,99.0,action
+73. Trigger Warning,4.6,20000,106.0,action
+74. My Spy: The Eternal City,5.7,11000,112.0,action
+75. Cloud,6.3,1600,124.0,action
+76. Escape from the 21st Century,6.4,1000,98.0,action
+77. Aavesham,7.8,29000,155.0,action
+78. 11 Rebels,6.3,745,155.0,action
+79. Marco,6.7,23000,145.0,action
+80. Aftermath,5.1,4400,97.0,action
+81. Take Cover,5.1,2900,90.0,action
+82. No Way Up,4.6,11000,90.0,action
+83. Alien: Rubicon,2.4,486,86.0,action
+84. Werewolves,4.4,7700,93.0,action
+85. The Prosecutor,6.6,2800,117.0,action
+86. Uprising,6.6,6000,126.0,action
+87. Karma,7.8,1500,167.0,action
+88. Boneyard,4.1,5200,96.0,action
+89. Paradox Effect,5.9,9900,87.0,action
+90. Watchmen: Chapter I,7.1,7100,83.0,action
+91. Descendants: The Rise of Red,4.7,7300,91.0,action
+92. Twilight of the Warriors: Walled In,6.9,10000,126.0,action
+93. Weekend in Taipei,5.7,5500,100.0,action
+94. Armor,3.6,4600,89.0,action
+95. Classified,3.7,2800,105.0,action
+96. Ultraman: Rising,6.9,6700,117.0,action
+97. Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,7.2,8800,104.0,action
+98. The Shadow Strays,6.5,9700,144.0,action
+99. Raayan,6.5,11000,145.0,action
+100. Code 8: Part II,5.7,16000,100.0,action
+101. Wynonna Earp: Vengeance,5.5,1700,96.0,action
+102. Saripodhaa Sanivaaram,7.0,10000,166.0,action
+103. Justice League: Crisis on Infinite Earths - Part One,6.2,8900,93.0,action
+104. Singham Again,4.7,75000,144.0,action
+105. Devara Part 1,6.0,21000,176.0,action
+106. Fighter,6.2,53000,166.0,action
+107. Chandu Champion,7.8,35000,142.0,action
+108. The Fix,4.7,1600,98.0,action
+109. Yolo,6.9,3900,129.0,action
+110. Arena Wars,5.4,3200,96.0,action
+111. Khadaan,7.0,2200,137.0,action
+112. Pins & Needles,6.5,25,95.0,action
+113. I Am What I Am 2,7.5,395,134.0,action
+114. Ghost Killer,6.8,90,105.0,action
+115. Die Hart 2: Die Harter,4.3,5700,92.0,action
+116. Badland Hunters,5.9,13000,107.0,action
+117. Hitpig,5.1,1100,86.0,action
+118. Harbin,6.2,994,108.0,action
+119. Revolver,5.4,930,114.0,action
+120. Megamind vs. The Doom Syndicate,2.5,5700,83.0,action
+121. River of Blood,5.0,2000,86.0,action
+122. Red Right Hand,5.5,6100,111.0,action
+123. Justice League: Crisis on Infinite Earths - Part Three,6.1,4800,94.0,action
+124. Diabel,5.0,309,108.0,action
+125. Prey,3.7,3500,86.0,action
+126. Chief of Station,4.7,4800,97.0,action
+127. Life After Fighting,6.4,2200,126.0,action
+128. Officer Black Belt,6.9,8800,108.0,action
+129. Watchmen: Chapter II,7.1,3500,90.0,action
+130. Hanu Man,7.7,29000,158.0,action
+131. The Quiet Ones,6.1,1100,110.0,action
+"132. I, the Executioner",6.3,2000,118.0,action
+133. How to Rob a Bank,6.6,4300,88.0,action
+134. Amaran,8.1,20000,167.0,action
+135. Bhaje Vaayu Vegam,6.1,771,136.0,action
+136. Latency,4.2,3000,94.0,action
+137. Jigra,6.0,24000,153.0,action
+138. The Family Star,5.4,5600,159.0,action
+139. Bougainvillea,6.4,3400,138.0,action
+140. Cash Out,4.8,3200,92.0,action
+141. Sasan,8.8,90,155.0,action
+142. The Roundup: Punishment,6.6,5700,109.0,action
+143. Justice League: Crisis on Infinite Earths - Part Two,5.5,5600,94.0,action
+144. Blood Star,6.3,6200,97.0,action
+145. Baby John,5.1,18000,159.0,action
+146. Gunner,3.2,2900,106.0,action
+147. Citizen of a Kind,6.6,917,114.0,action
+148. Utopia,3.7,442,91.0,action
+149. Elyas,6.1,1600,105.0,action
+150. Long Gone Heroes,5.1,1300,101.0,action
+151. Dark Match,5.4,1200,94.0,action
+152. The Greatest of All Time,5.7,23000,183.0,action
+153. Agni,7.2,15000,122.0,action
+154. Drive Back,4.5,659,94.0,action
+155. The Friendly,9.0,29,101.0,action
+156. Anaconda,4.9,675,84.0,action
+157. Toofan,7.3,8800,145.0,action
+158. Trouble,6.2,7200,98.0,action
+159. Everybody Loves Jenifa,8.4,100,135.0,action
+160. Operation Blood Hunt,3.4,526,93.0,action
+161. Damaged,4.7,7600,97.0,action
+162. The Twisters,2.5,434,86.0,action
+163. Pani,6.9,3400,143.0,action
+164. The Wages of Fear,4.6,4200,104.0,action
+165. S.T.A.L.K.E.R.: Shadow of the Zone,4.8,645,71.0,action
+166. Hagen,6.1,1400,139.0,action
+167. Hijack 1971,6.8,3500,100.0,action
+168. Air Force One Down,4.4,3000,84.0,action
+169. One More Shot,5.4,3800,103.0,action
+170. Fluxx,6.0,124,100.0,action
+171. Golden Kamuy,6.3,2700,127.0,action
+172. Duchess,4.6,1600,114.0,action
+173. City Hunter,6.3,5800,102.0,action
+174. Sixty Minutes,5.7,5300,88.0,action
+175. Baby Invasion,4.6,594,80.0,action
+176. All the Lost Ones,3.6,273,106.0,action
+177. One Fast Move,5.0,2300,108.0,action
+178. Joe Baby,5.2,107,86.0,action
+179. Kahar: Kapla High Council,7.1,512,102.0,action
+180. Shark Warning,3.5,379,94.0,action
+181. The Tiger's Apprentice,5.8,2300,84.0,action
+182. My Hero Academia: You're Next,7.0,2700,110.0,action
+183. Gandhi 3,5.7,247,143.0,action
+184. Hotspring Sharkattack,6.0,45,70.0,action
+185. Big City Greens the Movie: Spacecation,6.2,590,83.0,action
+186. Kill Em All 2,4.1,1400,88.0,action
+187. Alienoid: The Return to the Future,6.5,2800,122.0,action
+188. Thangalaan,6.5,6800,156.0,action
+189. Dominique,5.3,2400,100.0,action
+190. The Clean Up Crew,4.2,1300,95.0,action
+191. The Thundermans Return,5.0,1900,70.0,action
+192. Baby Assassins: Nice Days,7.2,362,103.0,action
+193. Max,7.1,3500,132.0,action
+194. Striking Rescue,5.6,706,111.0,action
+195. Levels,5.0,1600,93.0,action
+196. Bidurbhai,9.2,415,148.0,action
+197. Mission: Cross,6.1,2700,105.0,action
+198. Panda Plan,5.1,1600,99.0,action
+199. Hounds of War,4.5,2000,95.0,action
+200. Vettaiyan,6.9,40000,163.0,action
+201. Vanvaas,6.6,1500,160.0,action
+202. The Kingdom,7.0,152,133.0,action
+203. Viduthalai Part 2,7.8,17000,170.0,action
+204. Dharmarakshak Mahaveer Chhatrapati Sambhaji Maharaj,8.2,674,174.0,action
+205. Aho Vikramaarka,7.1,65,136.0,action
+206. A.R.M,7.1,9000,150.0,action
+207. Lights Out,4.9,1900,90.0,action
+208. Death Whisperer 2,6.3,1500,110.0,action
+209. A Legend,4.7,1000,129.0,action
+210. Black Heat,8.2,138,93.0,action
+211. Razakar: The Silent Genocide of Hyderabad,7.3,5300,166.0,action
+212. Vedaa,6.0,4500,145.0,action
+213. Devil's Knight,5.3,967,90.0,action
+214. The Last Stand of Ellen Cole,7.1,87,97.0,action
+215. Kingdom 4: Return of the Great General,7.1,1400,145.0,action
+216. Where Is Gilgamesh?,8.9,640,90.0,action
+217. Rats!,6.5,219,85.0,action
+218. Despatch,4.4,4500,153.0,action
+219. Operation Valentine,5.3,1500,133.0,action
+220. Neon Fear,5.7,600,40.0,action
+"221. Love, Courage and the Battle of Bushy Run",5.0,196,113.0,action
+222. Auron Mein Kahan Dum Tha,6.4,41000,150.0,action
+223. Por,5.1,629,154.0,action
+224. Freedom,5.9,1500,110.0,action
+225. They Call Her Death,5.4,210,92.0,action
+226. Handsome Guys,6.5,980,101.0,action
+227. Bagheera,6.7,7700,158.0,action
+228. Terminator: Skynet Rising,6.7,283,88.0,action
+229. Seeds,5.0,232,82.0,action
+230. Cesium Fallout,6.3,906,135.0,action
+231. Operation Undead,4.7,440,110.0,action
+232. Guntur Kaaram,5.4,25000,159.0,action
+233. Sheriff,6.9,1200,133.0,action
+234. No Time to Spy: A Loud House Movie,6.3,504,81.0,action
+235. Shoutai,6.8,713,120.0,action
+236. Eye for an Eye 2,6.6,557,90.0,action
+237. The Courier,6.0,4600,101.0,action
+238. Sons of Rizk 3,6.6,1800,125.0,action
+239. Sikandar Ka Muqaddar,5.9,25000,142.0,action
+240. Fighting the Fire,8.2,1700,115.0,action
+241. Overlord: The Sacred Kingdom,6.9,1500,135.0,action
+242. Second Life,6.8,62,105.0,action
+243. Hunt the Wicked,5.4,185,102.0,action
+244. Hunting with Tigers,5.6,564,109.0,action
+245. Cells at Work!,6.7,938,109.0,action
+246. The Charisma Killers,6.0,732,101.0,action
+247. Uninvited,5.6,344,93.0,action
+248. Desperado,6.0,155,100.0,action
+249. Mafia Wars,3.6,293,98.0,action
+250. Kizumonogatari: Koyomi Vamp,7.0,111,144.0,action
+251. The Infallibles,4.8,787,99.0,action
+252. Yodha,5.7,9000,130.0,action
+253. Bade Miyan Chote Miyan,3.8,39000,163.0,action
+254. Rob N Roll,6.1,1500,98.0,action
+255. Kamen Rider Gotchard: The Future Daybreak,8.0,80,63.0,action
+256. Kanguva,4.5,15000,152.0,action
+257. Darkness of Man,4.7,3300,109.0,action
+258. Codename: Devil,6.0,11,104.0,action
+259. Agent Recon,2.4,759,85.0,action
+260. Article 370,7.8,25000,158.0,action
+261. Savi,6.1,35000,126.0,action
+262. Ayalaan,5.9,4000,155.0,action
+263. DNA,5.1,218,156.0,action
+264. The Lockdown,4.3,629,117.0,action
+265. Escape,6.4,2200,94.0,action
+267. Matka,4.7,608,156.0,action
+268. Martin,2.2,36000,147.0,action
+269. Nice Girls,4.2,1200,92.0,action
+270. Spirit Riser,6.6,39,98.0,action
+271. Peter Five Eight,3.5,1100,100.0,action
+272. Double Ismart,2.9,2200,156.0,action
+273. Operation: Raqqa,5.6,308,107.0,action
+274. Mummy Shark,2.0,197,66.0,action
+275. Rifle Club,7.0,4600,113.0,action
+276. The Price of Money: A Largo Winch Adventure,5.1,1300,100.0,action
+277. KA,7.0,1700,151.0,action
+278. Siren,6.4,3000,154.0,action
+279. Angels Fallen: Warriors of Peace,4.9,6400,103.0,action
+280. Don't Mess with Grandma,5.5,295,81.0,action
+281. Tillu Square,6.6,3500,137.0,action
+282. UI,6.8,5800,135.0,action
+283. Sorgavaasal,6.6,1400,138.0,action
+284. Yudhra,4.9,13000,142.0,action
+285. 72 Hours,4.0,339,87.0,action
+286. Lal Salaam,4.5,1500,150.0,action
+287. Captain Miller,6.9,12000,157.0,action
+288. The Last Front,5.5,641,98.0,action
+289. Purushothamudu,5.4,2700,120.0,action
+290. Garudan,7.1,3400,133.0,action
+291. The Dragon's Tomb,6.7,55,77.0,action
+292. Eagle,5.9,5000,159.0,action
+293. Zenithal,4.9,111,80.0,action
+294. The Ballad of Davy Crockett,4.6,265,96.0,action
+295. Je Jatt Vigarh Gya,5.6,836,132.0,action
+296. Conquer: Lahad Datu,6.6,551,120.0,action
+297. Prepare to Die,4.5,246,93.0,action
+298. Murder Company,3.6,1600,86.0,action
+299. Bureau 749,3.9,584,123.0,action
+300. Wanted Man,4.8,2600,85.0,action
+301. Ryan's World the Movie: Titan Universe Adventure,1.8,736,80.0,action
+302. Bohurupi,7.9,1700,155.0,action
+303. The Last Kumite,4.6,2400,105.0,action
+304. Roadkill,3.7,696,90.0,action
+305. Outlaw,5.2,976,82.0,action
+306. Get Fast,3.7,490,88.0,action
+307. Baki Hanma VS Kengan Ashura,5.7,2000,62.0,action
+308. In the Fire of War,7.1,211,115.0,action
+309. Weapon,5.5,5900,120.0,action
+310. Mura,7.2,6400,129.0,action
+311. Fight for Tomorrow,7.0,28,101.0,action
+312. Continental Split,3.5,573,88.0,action
+313. Heart of the Hunter,4.7,2200,105.0,action
+314. 200% Wolf,5.9,1300,98.0,action
+315. Sunray: Fallen Soldier,4.3,705,115.0,action
+316. The Hangman,3.3,1000,92.0,action
+317. Crisis Negotiators,6.7,755,120.0,action
+318. Alien Country,4.5,412,96.0,action
+319. Devaki Nandana Vasudeva,6.5,2800,128.0,action
+320. Kuang Bao Ju Xi,5.6,87,75.0,action
+321. Gladiators,4.4,117,95.0,action
+322. Guy Manley: Super Spy,4.1,163,92.0,action
+323. Rogue Elements: A Ryan Drake Story,4.3,1100,44.0,action
+324. Crakk: Jeetega... Toh Jiyegaa,4.7,6500,154.0,action
+325. Bachhala Malli,8.2,4000,140.0,action
+326. Kondal,5.3,802,147.0,action
+327. Rathnam,5.4,3700,155.0,action
+328. Witch Hunter,4.4,28,80.0,action
+329. 24 Hours to D-Day,3.5,85,83.0,action
+330. Snow White and the Seven Samurai,3.2,317,88.0,action
+331. Mr. Bachchan,3.6,5300,150.0,action
+332. Thundu,5.0,926,125.0,action
+333. Mathu Vadalara 2,7.0,1800,139.0,action
+334. First Nights at Freddy's,9.4,19,98.0,action
+335. Invasion,4.8,755,91.0,action
+336. The Waves of Madness,5.8,112,68.0,action
+337. Turbo,5.9,3700,155.0,action
+338. War of the Worlds: Extinction,3.0,218,84.0,action
+339. Harom Hara,6.6,3100,154.0,action
+340. Bhaiyya Ji,4.8,7400,150.0,action
+341. Bheema,5.7,975,148.0,action
+342. Hitler,5.2,317,128.0,action
+343. Son's Will,7.4,1100,148.0,action
+344. Deaner '89,5.9,462,90.0,action
+345. Ferry 2,5.6,4000,94.0,action
+346. Bionic,4.3,1800,110.0,action
+347. GTMax,5.0,1300,100.0,action
+349. Bangkok Dog,4.8,247,85.0,action
+351. Saindhav,5.0,1600,138.0,action
+352. Fight Another Day,4.6,383,97.0,action
+353. Stuntman,6.9,212,114.0,action
+354. Barroz: Guardian of Treasures,3.4,1100,155.0,action
+355. 12 Gaun,6.6,962,147.0,action
+356. High Forces,5.8,589,119.0,action
+357. Cassino in Ischia,4.4,268,113.0,action
+358. 12 to Midnight,3.6,300,96.0,action
+359. Athhoi,7.3,239,158.0,action
+360. Snatched,6.0,534,101.0,action
+361. Pimpinero: Blood and Oil,5.6,579,121.0,action
+362. Viswam,4.2,655,155.0,action
+363. Mechanic Rocky,6.4,3500,156.0,action
+364. The Lost Tiger,7.4,58,90.0,action
+365. Mobile Suit Gundam SEED Freedom,6.6,988,124.0,action
+366. Alangu,8.0,1300,131.0,action
+367. Ape X Mecha Ape: New World Order,2.9,151,87.0,action
+369. Bastar: The Naxal Story,6.4,3300,124.0,action
+370. Pusaka,5.2,198,90.0,action
+371. Clownface 3,7.8,47,104.0,action
+372. Bloody Beggar,6.2,4400,134.0,action
+373. Zebra,7.2,3200,164.0,action
+374. Sucha Soorma,6.4,958,136.0,action
+375. School of Magical Animals 3,5.7,357,105.0,action
+376. Chhota Bheem and the Curse of Damyaan,4.8,2300,145.0,action
+377. Mongol,8.6,109,155.0,action
+378. Ruslaan,3.3,1300,120.0,action
+379. Pottel,8.0,2800,148.0,action
+380. Buddy,3.8,359,137.0,action
+381. Zero,5.9,83,88.0,action
+382. Taken from Rio Bravo,3.0,332,80.0,action
+383. Road Wars: Max Fury,2.0,369,83.0,action
+384. The Actor,3.4,738,128.0,action
+385. Ajay Gadu,6.3,1400,108.0,action
+386. Drive,5.6,366,90.0,action
+387. Ghosts of Red Ridge,3.2,182,81.0,action
+388. Aserb: The Squadron,5.2,330,120.0,action
+389. The Wolf,3.5,40,87.0,action
+390. Anchakkallakokkan,6.6,1000,126.0,action
+391. Shark Island,3.1,131,81.0,action
+392. The Last Ronin,4.9,597,115.0,action
+393. Bangkok Breaking: Heaven and Hell,5.8,702,146.0,action
+394. Naa Saami Ranga,4.5,1200,150.0,action
+395. Exorcism Chronicles: The Beginning,6.4,135,85.0,action
+396. Agents,3.3,953,82.0,action
+397. Stranded Pearl,5.5,30,90.0,action
+398. Mahadev Ka Gorakhpur,7.4,407,131.0,action
+399. Lorry Chapter-1,6.2,2800,183.0,action
+400. Gatao: Like Father Like Son,5.7,262,131.0,action
+401. Non Negotiable,5.4,1200,87.0,action
+402. Spiders on a Plane,4.4,421,78.0,action
+403. Taklee Genesis x Worlds Collide,5.4,433,146.0,action
+404. The Mick and the Trick,4.8,84,96.0,action
+405. Bull Shark 2,2.8,214,75.0,action
+406. Go for Broke,5.7,287,115.0,action
+407. Bhimaa,5.1,1200,141.0,action
+408. 6 Hours Away,4.0,257,93.0,action
+409. Rode College,6.5,438,168.0,action
+410. Six jours,5.7,271,95.0,action
+411. Kali,5.2,425,96.0,action
+412. The Firefighters,5.7,259,106.0,action
+413. Inanimate Insanity II: The Movie,8.2,250,106.0,action
+414. Rendel: Cycle of Revenge,3.6,254,99.0,action
+415. American Warrior,8.5,25,89.0,action
+416. Midas,4.6,349,85.0,action
+417. Chaari 111,4.8,269,130.0,action
+418. Warning 2,7.1,902,125.0,action
+419. Troubleshooters,6.4,436,110.0,action
+420. My Redneck Neighbor: Chapter 2 - Let the Games Begin,5.7,11,55.0,action
+421. Dange,5.3,808,154.0,action
+422. Sunfall,2.4,48,74.0,action
+423. Virunnu,4.0,952,125.0,action
+424. Lisabi: The Uprising,5.2,142,107.0,action
+425. Yuva,5.7,852,153.0,action
+426. Big Rage,3.6,176,115.0,action
+428. Mazhai Pidikatha Manithan,4.5,429,133.0,action
+429. Marni: The Story of Wewe Gombel,5.8,232,119.0,action
+430. Hellhound,4.3,530,103.0,action
+431. Malayalee from India,5.6,5100,160.0,action
+432. The Plot,4.8,406,100.0,action
+433. Sikaar,8.3,688,150.0,action
+434. Nine-Ring Golden Dagger,5.0,32,94.0,action
+435. Lady Scorpions,3.6,377,101.0,action
+436. Ugravatara,8.4,853,122.0,action
+437. The Traveller,5.2,215,134.0,action
+438. Blade of Fury,6.2,141,90.0,action
+439. Permafrost,5.7,115,80.0,action
+440. WWII: Operation Phoenix,5.7,101,106.0,action
+441. Appudo Ippudo Eppudo,4.7,237,120.0,action
+442. The Last of Us: Immunity,4.4,31,64.0,action
+443. Game On,5.2,2300,140.0,action
+444. The Day Everything Changed,8.0,80,97.0,action
+445. The Bodyguard,6.6,38,87.0,action
+447. Touchdown,6.8,14,78.0,action
+448. Love You to Debt,6.3,775,135.0,action
+449. Malaikottai Vaaliban,6.0,4200,156.0,action
+450. Bonnie,7.2,46,120.0,action
+451. Appu,8.1,190,92.0,action
+452. Rajakili,5.1,621,122.0,action
+453. Bad Boyz,3.1,742,150.0,action
+454. Echo 8,6.0,1300,95.0,action
+455. The Moon Thieves,6.0,295,108.0,action
+456. Dirty Money,5.6,198,100.0,action
+457. Mission: Chapter 1,5.9,1700,144.0,action
+459. Gone with the Dead,4.1,53,96.0,action
+460. UmroAyyar - A New Beginning,7.0,682,135.0,action
+461. Sector 17,5.4,1300,146.0,action
+462. Kiyma: Orman Kanunlari,3.9,43,81.0,action
+463. Paradise,6.9,83,83.0,action
+464. Gangs of Godavari,4.9,921,165.0,action
+465. Sabari,6.5,5400,129.0,action
+467. Vixen,5.3,347,88.0,action
+468. Crypto Storm,4.7,37,101.0,action
+469. Bandaa Singh Chaudhary,6.0,5300,113.0,action
+470. Genis Aile 4: Cevahir & Ulvi,4.7,280,90.0,action
+471. Black Storm,6.6,73,97.0,action
+472. Crosspoint,6.6,59,100.0,action
+473. Formed Police Unit,4.7,1400,120.0,action
+474. Fyre Rises,6.1,327,110.0,action
+475. The Grey Men,6.4,75,97.0,action
+476. Major Grom: The Game,6.1,1900,168.0,action
+477. Checkmate,4.3,400,104.0,action
+479. Nu Huo 12 Xiao Shi,6.1,56,86.0,action
+480. The Heist,6.9,2000,120.0,action
+481. Andromeda: 1883,4.0,19,75.0,action
+482. Art of Eight Limbs,4.0,328,101.0,action
+483. Customs Frontline,5.5,543,115.0,action
+484. Kung Fu Games,3.3,393,98.0,action
+485. What Happens in Miami,4.2,221,90.0,action
+486. I Heart Robots,4.5,2400,76.0,action
+487. Jorge da Capadócia,5.8,165,119.0,action
+488. Usha Parinayam,9.0,2100,144.0,action
+490. Premalo,7.3,1100,128.0,action
+491. Honeko Akabane's Bodyguards,6.1,48,117.0,action
+492. Texas Twister,2.5,161,88.0,action
+494. Clone Cops,5.8,327,96.0,action
+495. Death Game,6.3,26,88.0,action
+496. Purushothamudu,8.0,22,120.0,action
+497. My Fathers' Daughter,6.5,84,78.0,action
+499. (Pri)sons,5.0,296,100.0,action
+500. Anunnakiler,2.5,474,76.0,action
+501. Election,5.8,807,120.0,action
+502. In Tenebras: Into the Darkness,2.7,178,90.0,action
+503. Hakkenden,5.9,82,149.0,action
+504. The Omicron Killer,2.9,599,98.0,action
+505. Kill Craft,2.5,376,99.0,action
+506. The Captives,3.4,69,73.0,action
+507. Hit List,5.5,316,125.0,action
+509. Return to the Ring,5.3,754,106.0,action
+510. Hrashwo Deergha,7.5,107,150.0,action
+511. Tòkunbò,3.9,300,113.0,action
+512. Transformers Prime: Galavatron's Revenge,4.4,17,104.0,action
+513. Bloodline,9.2,50,80.0,action
+514. Ship of the Damned,2.8,311,88.0,action
+515. Deadzone,4.0,38,80.0,action
+516. Red vs. Blue: Restoration,5.6,145,85.0,action
+517. Camp Blood: Clown Shark,3.2,94,70.0,action
+518. Lie Zhan,6.5,84,93.0,action
+519. How to Make a Werewolf,5.7,145,16.0,action
+520. Nothing Even Matters,5.8,84,90.0,action
+521. Mirza: Part 1 - Joker,6.8,243,165.0,action
+522. Samandar,7.7,143,172.0,action
+523. Babu,7.2,189,142.0,action
+524. Rock 'N' Roll Ringo,6.0,68,101.0,action
+525. Yakuza Girl,2.2,69,82.0,action
+526. Heavens: The Boy and His Robot,5.9,24,98.0,action
+528. Ballistic,2.2,166,95.0,action
+529. Sous écrous,5.6,103,111.0,action
+530. Serra das Almas,5.4,52,120.0,action
+532. Mutant,4.3,118,90.0,action
+533. Sayen: The Huntress,4.4,263,88.0,action
+534. Next to Us,4.8,229,125.0,action
+535. Saala,5.6,1100,130.0,action
+536. Chasing Raine,2.3,188,101.0,action
+538. The Burden of Nine Lives,5.1,118,116.0,action
+540. Alpha.,6.9,276,100.0,action
+542. Breaking and Re-entering,5.8,463,109.0,action
+543. The Alexandrian,3.8,277,104.0,action
+545. Thankamani,4.6,234,156.0,action
+547. Tariq,6.2,18,122.0,action
+549. The Bouncer,4.1,101,78.0,action
+550. Supplier Shankara,9.3,73,163.0,action
+551. Memes & Nightmares,5.7,92,81.0,action
+552. Jithender Reddy,7.7,2400,136.0,action
+553. Marine Drive,9.5,50,105.0,action
+554. Sentimentaaal,4.9,991,135.0,action
+555. The Wild Blade of Strangers,6.2,118,102.0,action
+556. E-mail,5.3,808,119.0,action
+557. Soodhu Kavvum 2: Naatum Naatu Makkalum,3.8,216,129.0,action
+558. Gravediggers,6.0,35,91.0,action
+559. Top Floor,5.9,63,74.0,action
+560. Neo-Dome,6.0,19,15.0,action
+561. Young Lion of the West,5.3,110,93.0,action
+562. Sumaho o otoshita dake na no ni: Saishusho Final Hacking Game,6.6,30,116.0,action
+563. Bond of Justice: Kizuna Part I - Encounter,5.6,20,92.0,action
+564. The Miranda Brothers,4.4,192,99.0,action
+565. Framed,2.6,122,,action
+566. Shekko,5.9,617,120.0,action
+567. The Epidemic,5.9,71,95.0,action
+568. Petta Rap,3.9,1700,123.0,action
+569. Mani nude,6.6,59,84.0,action
+571. Kaalapatthar,6.2,1000,113.0,action
+572. The Last Chainsaw Massacre,3.7,43,75.0,action
+573. The Experts,6.2,307,121.0,action
+575. Surge of Power: Where There's Smoke,5.9,14,68.0,action
+576. The Evil Three,6.5,1000,30.0,action
+577. Iravinil Aatam Par,3.3,154,118.0,action
+581. Dragon Ball Z Kai,8.6,93,82.0,action
+582. Kamen Rider 555 20th: Paradise Regained,5.8,151,65.0,action
+583. Spider-Man: Final Swing,7.9,11,153.0,action
+584. Tales Beyond the Galaxy,4.5,186,76.0,action
+585. Ame no naka no yokujô,5.9,88,132.0,action
+586. The Circuit 4: Faith Fighter,4.4,93,90.0,action
+587. Villain - Life of a Gangster,8.7,168,141.0,action
+588. Shu Si Yi Bo,6.7,39,91.0,action
+589. Star Abyss,3.8,269,86.0,action
+590. Kadakan,3.9,115,128.0,action
+591. Dreams,6.1,11,106.0,action
+593. El Duro,4.7,17,90.0,action
+594. Krishnamma,6.2,370,138.0,action
+595. Bhairadevi,8.6,52,134.0,action
+596. Dünya Mali: Eksi Bir,7.2,18,133.0,action
+597. Dark Fusion,8.5,241,90.0,action
+598. Gam Gam Ganesha,5.3,316,140.0,action
+600. Iron Fighter,3.6,66,80.0,action
+601. Indrani: Epic-1 Dharam vs Karam,7.6,1100,157.0,action
+602. Itutumba ka ng tatay ko,5.0,74,109.0,action
+603. The Unbreakable Bunch,7.3,35,85.0,action
+604. Sith Wars: Episódio III - Fantasmas Dos Sith,8.9,158,99.0,action
+605. Breaking Tradition,6.5,28,87.0,action
+606. The Bottom Line,6.7,14,107.0,action
+607. Jathara,7.8,1100,129.0,action
+608. Buying Time,6.5,506,84.0,action
+609. Abudeka Is Back,5.4,44,120.0,action
+612. Fights Break Sphere 3,5.0,11,81.0,action
+613. Zoloto Umalty,4.9,114,109.0,action
+614. Correr para Vivir,6.9,207,97.0,action
+616. Nintama Rantaro Dokutake Ninja-tai Saikyou no Gunshi,7.1,41,90.0,action
+617. Mahserin Üç Delisi,5.9,16,78.0,action
+618. Mega Twister,2.7,61,75.0,action
+619. Bloody Escape: Bats out of Hell,5.4,60,100.0,action
+621. Dheera,7.9,1300,123.0,action
+622. Jurassic Exorcist,4.3,24,76.0,action
+623. Shri Swapankumarer Badami Hyenar Kobole,5.6,332,146.0,action
+624. Joachim and the Apocalypse,7.7,17,90.0,action
+627. Oru Anveshanathinte Thudakkam,6.9,835,181.0,action
+629. September Babies,5.5,296,94.0,action
+630. Gold Raiders,2.0,194,88.0,action
+631. Average Student Nani,7.4,2300,138.0,action
+632. Pariah Volume 1: Every Street Dog Has a Name,6.8,393,138.0,action
+634. Raanti,6.8,1100,115.0,action
+635. The Desperate Chase,5.7,75,110.0,action
+636. Bonus Trip,4.5,233,113.0,action
+637. Joshua: Imai Pol Kaka,4.5,591,130.0,action
+638. Hide and Seek,8.0,55,130.0,action
+639. Shadows of Betrayal: Chronicles of Ian Blair,7.5,14,65.0,action
+643. Cholo Zombies,4.5,107,96.0,action
+644. Panjab Files,7.5,37,117.0,action
+645. South Side Hero,5.6,38,92.0,action
+646. Saint Young Men: Holy Men vs Demon Army,3.6,17,93.0,action
+647. Max Beyond,6.6,18,93.0,action
+648. Youth in Trouble,7.8,28,106.0,action
+650. Jacob Tyler,4.1,65,133.0,action
+652. Hocus Focus,7.9,20,85.0,action
+656. Ultraman Blazar the Movie: Tokyo Kaiju Showdown,7.4,96,75.0,action
+657. Captain Avispa,5.7,181,96.0,action
+658. Thiragabadara Saami,3.9,121,115.0,action
+659. Mercy Killing,8.7,2700,131.0,action
+660. The Escapee 3: The Final Escape,2.7,70,83.0,action
+661. Fuuto PI: Portrait of Kamen Rider Skull,7.3,52,82.0,action
+662. Inkabi,4.8,84,101.0,action
+664. Reloaded 2,7.5,1200,45.0,action
+665. Zeke,6.6,10,50.0,action
+666. Day of the Diesels,6.1,12,100.0,action
+667. London Gangsters,4.6,12,104.0,action
+668. The Vampire and the Vigilante,3.6,54,75.0,action
+669. Waspzilla,4.3,141,80.0,action
+671. The Slave and the Sorcerer,6.5,47,86.0,action
+672. Polar,4.3,30,76.0,action
+673. Death Bitch,7.3,22,88.0,action
+675. Warrior Awang and Master Tok Gajah,4.6,484,118.0,action
+676. Achilles Curse and the Curse of Treasure,7.5,26,125.0,action
+677. Special Needs Revolt!,8.5,16,113.0,action
+678. Love You as the World Ends Final,6.6,41,115.0,action
+679. Tokusou Sentai Dekaranger 20th: Fireball Booster,7.1,38,50.0,action
+680. The Correct Way of Youth,9.2,783,90.0,action
+681. Killer Ex,3.9,55,94.0,action
+683. Bullet,8.9,570,131.0,action
+684. Firework,6.1,13,60.0,action
+685. Skhvatka,5.2,23,107.0,action
+686. Telekinesis,5.8,63,106.0,action
+688. Komandir,6.3,538,131.0,action
+691. Haraa,5.2,2900,136.0,action
+692. Raktaksha,7.9,1400,118.0,action
+693. Zhi Bao,5.4,20,100.0,action
+694. Iddaru,8.7,297,148.0,action
+696. Losing Lerato 2,9.0,34,96.0,action
+697. Türkler Çildirmis Olmali 2: Mavi Vatan,2.1,168,100.0,action
+699. Mirg,6.1,36,83.0,action
+"700. Silex and the City, le film",4.9,56,77.0,action
+701. Common Creed: Trafficking,6.6,13,106.0,action
+702. Yentha Panichesav Chanti,9.5,85,135.0,action
+"703. Bullets, Brothers and Blood",7.8,15,85.0,action
+704. Speed 220,5.8,1200,114.0,action
+705. Usire Usire,7.5,1100,151.0,action
+706. Operation Star,7.8,25,102.0,action
+708. Rang De Basanti,6.8,179,174.0,action
+709. Re Xue Ran Shao,7.3,57,113.0,action
+710. Hain,2.9,51,95.0,action
+711. Jigar,6.9,20,122.0,action
+714. Halloween: Mal Eterno,8.2,231,50.0,action
+717. Rocky and Bullwinkle,8.6,17,100.0,action
+719. SCP: The Infinite Mission,6.0,35,16.0,action
+721. Karma,4.4,50,111.0,action
+724. Kamen Rider Geats: Jyamato Awaking,7.9,81,54.0,action
+726. Naag Bhoomi,5.7,9,130.0,action
+727. Vey Dharuvey,6.3,2300,127.0,action
+728. Hell City,9.1,28,90.0,action
+729. Ameena,6.3,20,107.0,action
+732. The Deal,8.9,28,130.0,action
+734. Vorovka,4.8,55,90.0,action
+735. Emanet,7.7,32,97.0,action
+736. Janna Endoro,8.1,16,120.0,action
+737. Sarangadhariya,8.3,3100,150.0,action
+738. Raju Gari Ammayi Naidu Gari Abbayi,8.1,3100,158.0,action
+739. The Yoshi Movie,7.9,14,105.0,action
+740. Mavr,6.3,10,83.0,action
+741. Yao Shen Ling,6.7,70,93.0,action
+743. Shockwaves 2,2.9,152,79.0,action
+744. Dark World,4.9,19,135.0,action
+746. Useful Idiots,8.3,19,92.0,action
+747. Die Chaosschwestern und Pinguin Paul,5.6,74,100.0,action
+749. The Journey of Flower,4.0,29,97.0,action
+752. Timuchin,5.9,33,78.0,action
+753. Rebirth Island,7.7,57,103.0,action
+755. Rebel,3.2,66,100.0,action
+759. Dhil Raja,9.4,131,106.0,action
+761. The SML YTP Movie 2: Dimension Trouble,8.6,15,94.0,action
+764. SMB-plush presents trick or death,8.0,17,120.0,action
+765. Champions of the Golden Valley,9.2,78,81.0,action
+766. Abnormal: Buas,5.7,28,90.0,action
+768. Death Game,5.5,18,87.0,action
+769. Gally Gang Stars,8.9,2000,157.0,action
+770. Roudhra Rupaya,7.2,2000,132.0,action
+771. Di Renjie: Duo Ming Yao Seng,6.9,62,80.0,action
+772. Krapiva: Tsvetok smerti,6.1,56,81.0,action
+773. Di Renjie: Tongtian xuan an,7.1,19,85.0,action
+775. Wilhelm Gustloff,8.7,9,110.0,action
+776. Inexternal,3.2,26,83.0,action
+777. Tiger's Trigger,4.1,19,84.0,action
+778. Nasha Jurm Aur Gangsters,6.7,2800,137.0,action
+779. Mobile Suit Gundam: Silver Phantom,6.1,13,90.0,action
+782. Brattt,4.7,68,117.0,action
+785. Mr. Natwarlal,6.1,781,130.0,action
+786. Happy Dragons,4.9,9,97.0,action
+787. Kade,6.3,18,92.0,action
+788. Mother Mafia,3.6,53,80.0,action
+791. Dhaaak,8.6,24,128.0,action
+793. Operation Wakaliga: Fate and Blood,6.7,12,66.0,action
+794. S-99,8.6,2100,119.0,action
+796. Bato: Road to Death,5.4,777,137.0,action
+797. Cândido,6.3,64,99.0,action
+798. Timini,8.4,8,120.0,action
+801. Roxana,4.0,69,98.0,action
+802. Best Cop Ever,4.5,51,122.0,action
+803. Agastya - Chapter 1,6.6,630,168.0,action
+804. Guns Blazin,7.1,10,88.0,action
+805. Be Forever Yamato: Rebel 3199: Part 1: Dark Invasion,7.5,11,50.0,action
+808. Guxim,7.2,37,75.0,action
+809. Hiranya,5.6,20,138.0,action
+810. Revenge,1.8,48,127.0,action
+811. Kallu Compound 1995,7.9,2000,140.0,action
+814. Pranaya Godari,7.8,2400,148.0,action
+815. Cholay,8.7,112,60.0,action
+818. The Delegator,4.1,17,96.0,action
+819. Daanvi,1.5,9,117.0,action
+825. Played,6.2,11,96.0,action
+826. The Drunken Prodigy,5.6,18,107.0,action
+827. Raja 420,6.3,22,81.0,action
+828. Nenu Keerthana,8.9,2100,155.0,action
+829. Blood Vendetta,7.7,240,90.0,action
+833. Sacrum Vindictae II,4.8,13,114.0,action
+834. Faster: Only one lap,6.9,24,90.0,action
+835. Surrender,7.8,15,149.0,action
+838. Travesty,7.8,10,78.0,action
+845. Bad Ass Sista,6.4,10,80.0,action
+846. A Love Story of Assassin,6.9,60,85.0,action
+847. Drunken Swordsman,6.8,51,91.0,action
+849. AK47,7.2,15,146.0,action
+850. Vhoyal,9.3,6,138.0,action
+851. Seetha Kalyana Vaibhogame,8.5,2000,146.0,action
+852. The Winter Prophecy,8.1,14,52.0,action
+853. Holy Punch,5.2,50,98.0,action
+855. Agent 86,6.7,6,87.0,action
+858. The Worlds Divide,7.9,40,120.0,action
+861. Jewish Revenge 6: Gaza in Focus,6.0,27,70.0,action
+863. Dead Hand,4.1,75,92.0,action
+864. Big Brother,8.5,2000,115.0,action
+865. Joy Hanu Man,8.9,27,143.0,action
+869. Jurassic Island,7.7,53,95.0,action
+870. Dangerous Boys 2,5.5,12,115.0,action
+875. Kreem,6.8,130,115.0,action
+876. Gull Lake Vice II: The Delusion Continues,8.1,18,58.0,action
+877. Wonderful Precure! The Movie! Doki Doki Game no Sekai de Daiboken,6.6,38,71.0,action
+882. The Mystery of Humanoid Puppet,6.7,61,88.0,action
+883. Pushpaka Vimanam,5.6,17,137.0,action
+884. StarGazer: The Need of the Many,5.0,12,47.0,action
+885. Break War,2.7,17,86.0,action
+886. They're Here,7.4,7,74.0,action
+888. Charlotte Link - Ohne Schuld,5.5,43,89.0,action
+890. La Tamalera,8.4,10,115.0,action
+899. Nothing Unusual,8.8,13,92.0,action
+916. Feng Zi Lao Ba,4.3,6,85.0,action
+917. Hope & Glory,6.6,149,44.0,action
+924. A Reel Heist,5.2,58,116.0,action
+925. Ryding Durty 2,7.8,5,90.0,action
+928. 5 Pounds of Pressure,6.6,17,111.0,action
+929. La Chakalosa,10.0,5,96.0,action
+930. Kaale Angrej,5.5,17,131.0,action
+932. Oversteer,5.2,19,86.0,action
+933. Bloods of Glasgow,8.2,5,51.0,action
+936. War of the Ninja Monsters: Jaron vs Goura,4.0,6,55.0,action
+940. Lie Du,2.5,7,107.0,action
+941. Artist Unknown,7.9,21,82.0,action
+943. Anger,7.7,18,83.0,action
+949. Chinatown Chacha,5.0,60,103.0,action
+950. Revolutionize the World,7.3,54,78.0,action
+951. The End of Hen,9.7,10,75.0,action
+958. Zen Fist,7.2,9,45.0,action
+959. Brotherhood of Blades Kill Evil,9.2,5,84.0,action
+963. Sesh Bazi,6.2,10,132.0,action
+965. Ohsama Sentai King-Ohger vs. Donbrothers,6.7,39,26.0,action
+967. Dirty Fellow,6.7,3800,119.0,action
+971. The ShortCut,7.7,1800,138.0,action
+972. Reeza GTR,6.9,16,91.0,action
+979. Opasni shmatki,5.1,36,92.0,action
+980. Punish Evil,6.6,5,85.0,action
+981. Seven Heroes Beat the Monster,6.8,51,89.0,action
+983. Leha,2.3,42,98.0,action
+989. Dr. Jason II - Lights & Shadows,4.9,331,62.0,action
+991. Bloodlust,7.8,13,97.0,action
+992. Slide or Die the Movie,8.3,9,127.0,action
+995. Anthima Theerpu,7.0,1600,133.0,action
+996. Combat Code: Hunt,7.7,20,76.0,action
+1002. Herencia Llena De Sangre,10.0,5,93.0,action
+1003. Los Hijos De Camelia y Emilio,6.6,39,82.0,action
+1008. Pithala Maathi,7.5,846,140.0,action
+1009. The Captive,6.9,61,74.0,action
+"1010. La Protegida, La Película",9.2,16,67.0,action
+1012. El Cartel De Teresa,8.2,10,96.0,action
+1014. Xiao zi,3.5,12,101.0,action
+1019. Tranquility: Ghost Stories,7.6,53,88.0,action
+1022. Three Old Captors,7.0,50,94.0,action
+1024. Banana Shotgun,9.7,6,106.0,action
+1029. Me and the Dragon's Daughter,4.9,11,75.0,action
+1035. Klaantha,6.0,520,107.0,action
+1041. The Overseas Killer,6.4,52,104.0,action
+1044. Luna de Hiel,6.0,30,83.0,action
+1045. Atu Nuvve Itu Nuvve,6.5,12,123.0,action
+1047. Piri Reis: The Incredible Chart,7.0,27,138.0,action
+1048. Jiwa 8 Belas,5.0,19,86.0,action
+1049. Give Me Babies,6.7,6,23.0,action
+1050. Full Clip for a Snitch,3.6,19,75.0,action
+1057. Bring Back the Colour,6.4,8,47.0,action
+1063. Falsos Amigos,10.0,5,113.0,action
+1064. Killer Lee,1.9,9,87.0,action
+1066. Pungut,7.5,16,100.0,action
+1069. Kaveri,6.7,1500,101.0,action
+1070. Battling to Survive,7.1,54,74.0,action
+1073. Snowstorm,4.5,6,91.0,action
+1075. Dheera Bhagat Roy,8.4,1100,150.0,action
+1079. Kohinoor,8.1,22,119.0,action
+1080. Isle: Alpha One,8.7,8,97.0,action
+1081. Urban Vengeance,5.4,15,79.0,action
+1082. Rooban,6.5,277,125.0,action
+1083. Jimmy's Friends,7.1,14,94.0,action
+1086. The Very Last Christmas,8.6,12,75.0,action
+1089. Sathyam,7.3,10,134.0,action
+1095. Opportunity,8.9,91,96.0,action
+1096. Speed Fight,6.8,52,87.0,action
+1097. Kyle and the Last Emerald,5.4,18,20.0,action
+1099. The Knights Errant of an Jier,7.2,54,86.0,action
+1102. Mandya Haida,6.3,231,139.0,action
+1105. Riddle of the Shadow Lotus,6.3,54,92.0,action
+1110. Rudra: The Beginning,9.4,38,135.0,action
+1114. War with the Evil,6.2,53,85.0,action
+1115. Duelo De Capos,6.3,40,83.0,action
+1116. Vi possiamo salvare,2.7,103,89.0,action
+1122. Action of Intelligenagency,6.7,52,85.0,action
+1123. El Junior Del Patron,7.1,15,92.0,action
+1124. The Kills,8.8,9,70.0,action
+1130. Out of the Shadow,6.5,7,89.0,action
+1134. The Vent,8.9,15,3.0,action
+1144. Lealtad o Morir,8.4,10,87.0,action
+1159. Too Little Too Late,5.4,8,66.0,action
+1160. PW V: Tears of the Fallen,8.2,11,60.0,action
+1161. Captain Superb and the Angel of Destiny,3.0,14,120.0,action
+1182. Inherited,9.5,21,76.0,action
+1193. Runnin' from Wolves,7.2,10,133.0,action
+1196. Passazhiry,4.4,33,80.0,action
+1205. The Mirage,8.9,10,106.0,action
+1220. Kyle and the Last Emerald 2,8.4,9,15.0,action
+1221. The Domino File,4.7,7,102.0,action
+1240. Po du xing dong,6.7,6,79.0,action
+1246. Whispers of the Imperial City,6.8,53,90.0,action
+1271. No Man Standing,8.6,12,93.0,action
+1272. Jefa De Jefas,8.4,10,82.0,action
+1273. Gintama the Movie 2D: Courtesan of the Nation Arc,8.0,9,109.0,action
+1274. Sehnsucht nach Firdaws,8.7,7,103.0,action
+1276. Bush Knife,7.0,8,90.0,action
+1297. Oda: Vlucht door de Eeuwen,6.4,7,102.0,action
+1325. Spider-Man: Dimension Rift,8.4,14,127.0,action
+1326. Gadha17,8.0,12,90.0,action
+1327. Siete Vidas - El Levanton,9.6,5,45.0,action
+1328. Las Hermanas Del Cartel,8.5,6,91.0,action
