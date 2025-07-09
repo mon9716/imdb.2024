@@ -1,5 +1,5 @@
 # imdb.2024
-# IMDb 2024 Movie Data Scraping and Visualization
+# IMDB 2024 Movie Data Scraping and Visualization
 
 ## Project Overview
 This project extracts, cleans, analyzes, and visualizes movie data from IMDb's 2024 releases. It uses web scraping (Selenium), data processing (Pandas), database management (MySQL), and an interactive dashboard (Streamlit) to provide insights into movie trends, ratings, and popular genres.
@@ -87,4 +87,4 @@ Follow these steps in order after completing the setup:
     *(A new browser tab should open automatically displaying your dashboard. If not, copy the "Network URL" provided in the terminal (e.g., `http://192.168.x.x:8501`) and paste it into your web browser.)*
 
 ## Demo Video
-[**TODO:** Place the link to your demo video here (e.g., Loom, YouTube, Google Drive link). Make sure the link is publicly accessible!]
+https://drive.google.com/file/d/1aTzR-XIw9DDbC_TGBQQqdZvvaNRVylRc/view?usp=sharing
