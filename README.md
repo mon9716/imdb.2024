@@ -87,4 +87,4 @@ Follow these steps in order after completing the setup:
     *(A new browser tab should open automatically displaying your dashboard. If not, copy the "Network URL" provided in the terminal (e.g., `http://192.168.x.x:8501`) and paste it into your web browser.)*
 
 ## Demo Video
-https://drive.google.com/file/d/1aTzR-XIw9DDbC_TGBQQqdZvvaNRVylRc/view?usp=sharing
+https://www.linkedin.com/posts/monica-umamageswaran_dataanalytics-python-streamlit-activity-7348674663293648896-aARE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_7PqYBCyvYmCOnir7XtTdIJhnL6JtNqSA
